@@ -1,3 +1,5 @@
-Please use the notebook "Code Presentation.ipynb" to walk through the code. 
+The project has been organized into weeks of progress in different areas. 
 
-On GitHub, you can see the results of the notebook directly by clicking the link for "Code Presentation.ipynb"
+For an overview of the code: Please use the notebook "Final Code Presentation.ipynb" in the Final Presentation folder. 
+
+If you navigate to the folder and open the file on github, you can see the results of the notebook directly without having to run the code on your own laptop. 
